@@ -4,7 +4,7 @@
 **[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)**
 
 Improvements:
- - Huge high-quality 65536 256x256 color images dataset
+ - Huge high-quality 65536 256x256 color images dataset (~10GB)
  - Color gradients for lines and background
  - Improved data augmentation
  - Linear/correct color blending
