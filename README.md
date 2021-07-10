@@ -37,6 +37,8 @@ Most line art are licensed and have copyright. This dataset offers an open alter
 
 Two dataset versions are available, one in color, the other in grayscale. Both datasets contain 65536 (2^16) images of size 256x256. All images were generated using images in the folder `/Generator_Images`, which is also public, allowing custom generation.
 
+Smaller preview datasets (1024 and 4096 images) are available. They are mutually exclusive with the full dataset can be used as validation/test datasets.
+
 The code used to generate the images is not yet public.
 
 ![Example][b0]
