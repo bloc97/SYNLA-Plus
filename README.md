@@ -1,5 +1,5 @@
 # SYNLA Plus Dataset
- Successor to the original Synthetic Line Art (SYNLA) Dataset
+ Successor to the original [Synthetic Line Art (SYNLA) Dataset](https://github.com/bloc97/SYNLA-Dataset).
 
 This new dataset adds the following:
  - Color gradients for lines and background
@@ -7,6 +7,16 @@ This new dataset adds the following:
  - Linear/correct color blending
  - Better resampling and reduced artifacts
  - Contains real images as background ([DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) + random anime images)
+
+![Example][c0]
+![Example][c1]
+![Example][c2]
+![Example][c3]
+![Example][c4]
+![Example][c5]
+![Example][c6]
+![Example][c7]
+![Example][c8]
 
 ## Fair Use
 
@@ -35,32 +45,11 @@ This dataset is designed to simulate complex line art. Useful for training machi
 
 Most line art are licensed and have copyright. This dataset offers an open alternative and is released under MIT license.
 
-Two dataset versions are available, one in color, the other in grayscale. Both datasets contain 65536 (2^16) images of size 256x256. All images were generated using images in the folder `/Generator_Images`, which is also public, allowing custom generation.
-
-Smaller preview datasets (1024 and 4096 images) are available. They are mutually exclusive with the full dataset can be used as validation/test datasets.
+Three color datasets are available. The full dataset contains 65536 (2^16) images of size 256x256. All images were generated using images in the folder `/Generator_Images`, which is also public, allowing custom generation.
+Smaller preview datasets (1024 and 4096 images) are also available. They are mutually exclusive with the full dataset can be used as validation/test datasets.
 
 The code used to generate the images is not yet public.
 
-![Example][b0]
-![Example][b1]
-![Example][b2]
-![Example][c0]
-![Example][c1]
-![Example][c2]
-
-![Example][b3]
-![Example][b4]
-![Example][b5]
-![Example][c3]
-![Example][c4]
-![Example][c5]
-
-![Example][b6]
-![Example][b7]
-![Example][b8]
-![Example][c6]
-![Example][c7]
-![Example][c8]
 
 [b0]: Dataset_Grayscale/1e2fb2f838034fc7a0a43b6b0c7ab321.png "Example"
 [b1]: Dataset_Grayscale/5f1ed8c90aa948b995f0360986e3bb74.png "Example"
@@ -73,15 +62,17 @@ The code used to generate the images is not yet public.
 [b8]: Dataset_Grayscale/40514e8fe57b46c9893f389f0c8cbc3c.png "Example"
 
 
-[c0]: Dataset_Color/1ad335922eb140d09bd8dc60742eafdc.png "Example"
-[c1]: Dataset_Color/3b04969f98ba406991014105c915db9a.png "Example"
-[c2]: Dataset_Color/6e70e681677740cda2e2923954c0df19.png "Example"
-[c3]: Dataset_Color/8b294ec517524d1f9380321a0a25baff.png "Example"
-[c4]: Dataset_Color/676a145a90fb4e0a8ca1c14c09f37079.png "Example"
-[c5]: Dataset_Color/a2eaefee359c4d438a48ac7573e3b7e0.png "Example"
-[c6]: Dataset_Color/bfb1580391c2430484a91a204470f21e.png "Example"
-[c7]: Dataset_Color/c9d5bbf3cff74a92b19f627b751891bf.png "Example"
-[c8]: Dataset_Color/d40437bce4e744fd8deb83cdc386913a.png "Example"
+
+
+[c0]: Dataset_Color/Dataset_1024/0e61d8557ac5496c90611c52a9b8e9c0.png "Example"
+[c1]: Dataset_Color/Dataset_1024/1cd819fc1ca1424a896426928adc74bb.png "Example"
+[c2]: Dataset_Color/Dataset_1024/1f3983379dcd4b5f93595186f7392e26.png "Example"
+[c3]: Dataset_Color/Dataset_1024/2bbcb8cf42634e3196423de0ad9c5cfe.png "Example"
+[c4]: Dataset_Color/Dataset_1024/2e1bc807b5e44472986e2333a3b2708f.png "Example"
+[c5]: Dataset_Color/Dataset_1024/7f653e863421411e899480ad787126d3.png "Example"
+[c6]: Dataset_Color/Dataset_1024/09ac6167c4f54b4ba286cd20ecd4ddb5.png "Example"
+[c7]: Dataset_Color/Dataset_1024/9e89413807c04186b8b1337ad2d37852.png "Example"
+[c8]: Dataset_Color/Dataset_1024/21b69edaf3614e7eabfb24e43917e5d4.png "Example"
 
 
 
