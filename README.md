@@ -68,7 +68,7 @@ The code used to generate the images is not yet public.
 
 
 [c0]: Dataset_Color/Dataset_1024/0e61d8557ac5496c90611c52a9b8e9c0.png "Example"
-[c1]: Dataset_Color/Dataset_1024/1cd819fc1ca1424a896426928adc74bb.png "Example"
+[c1]: Dataset_Color/Dataset_1024/76dafe006fbb480fb76bf0deca911354.png "Example"
 [c2]: Dataset_Color/Dataset_1024/1f3983379dcd4b5f93595186f7392e26.png "Example"
 [c3]: Dataset_Color/Dataset_1024/2bbcb8cf42634e3196423de0ad9c5cfe.png "Example"
 [c4]: Dataset_Color/Dataset_1024/2e1bc807b5e44472986e2333a3b2708f.png "Example"
