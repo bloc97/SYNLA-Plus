@@ -16,7 +16,7 @@ This new dataset adds the following:
 **[U.S. Code Title 17. - COPYRIGHTS](https://www.law.cornell.edu/uscode/text/17) (17 U.S. Code § 107)**, [\[...\] the fair use of a copyrighted work, \[...\] for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.](https://www.law.cornell.edu/uscode/text/17/107) (Country of provider)
 
 1. The purpose of use is for nonprofit educational/research purposes;
-2. Original images cannot be recovered without significant effort from this dataset, which makes it nonrepresentative of the original work.
+2. Original images cannot be recovered without significant effort and redrawing from this dataset, which makes it nonrepresentative of the original work.
 3. Effort is made to use the least amount of each copyrighted work as possible. The goal is to have a large variance on the images' content, thus a very small amount of many individual work was used.
 4. There are no public alternatives for high quality line art datasets.
 5. It is easier to distribute the original work as intact images rather than distributing them within this dataset. The impact of distribution on the original work is minimal.
