@@ -46,7 +46,7 @@ This dataset is designed to simulate complex line art. Useful for training machi
  - Style Transfer
  - And more...
 
-Most line art are licensed and have copyright. Using private datasets discourage reproductibility of results. This dataset offers an open alternative and is released under MIT license.
+Most line art are licensed and have copyright. Using private datasets discourages reproducibility of results. This dataset offers an open alternative and is released under MIT license.
 
 Three color datasets are available. The full dataset contains 65536 (2^16) images of size 256x256. All images were generated using images in the folder `/Generator_Images`, which is also public, allowing custom generation.
 Smaller preview datasets (1024 and 4096 images) are also available. They are mutually exclusive with the full dataset can be used as validation/test datasets.
