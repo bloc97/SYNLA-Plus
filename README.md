@@ -23,7 +23,7 @@ Improvements:
 
 ## Fair Use
 
-<ins>The background source images used to generate this dataset are copyrighted</ins>, however their use are justfied by:  
+<ins>The background source images used to generate this dataset may or may not be copyrighted</ins>, however their use are justfied by:  
 **[Canadian Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/c-42/index.html) (R.S.C., 1985, c. C-42)**, [29 - Fair dealing for the purpose of research, private study, education, parody or satire does not infringe copyright.](https://laws-lois.justice.gc.ca/eng/acts/c-42/page-8.html#h-103270) (Country of issue)
 
 **[U.S. Code Title 17. - COPYRIGHTS](https://www.law.cornell.edu/uscode/text/17) (17 U.S. Code § 107)**, [\[...\] the fair use of a copyrighted work, \[...\] for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.](https://www.law.cornell.edu/uscode/text/17/107) (Country of provider)
