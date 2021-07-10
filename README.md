@@ -19,6 +19,8 @@ Improvements:
 ![Example][c7]
 ![Example][c8]
 
+[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)
+
 ## Fair Use
 
 <ins>The background source images used to generate this dataset are copyrighted</ins>, however their use are justfied by:  
