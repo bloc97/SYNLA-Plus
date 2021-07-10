@@ -1,6 +1,8 @@
 # SYNLA Plus Dataset
  Successor to the original [Synthetic Line Art (SYNLA) Dataset](https://github.com/bloc97/SYNLA-Dataset).
 
+[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)
+
 Improvements:
  - Huge 65536 images dataset
  - Color gradients for lines and background
@@ -18,8 +20,6 @@ Improvements:
 ![Example][c6]
 ![Example][c7]
 ![Example][c8]
-
-[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)
 
 ## Fair Use
 
