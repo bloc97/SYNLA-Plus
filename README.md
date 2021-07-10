@@ -1,7 +1,7 @@
 # SYNLA Plus Dataset
  Successor to the original [Synthetic Line Art (SYNLA) Dataset](https://github.com/bloc97/SYNLA-Dataset).
 
-[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)
+**[Link to full dataset.](https://github.com/bloc97/SYNLA-Plus/releases)**
 
 Improvements:
  - Huge 65536 images dataset
